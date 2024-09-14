@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/recipes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/recipes/calculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/work_with_database" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models_list_displaying" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
